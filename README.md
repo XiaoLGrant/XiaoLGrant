@@ -1,4 +1,4 @@
-<img src="https://github.com/XiaoLGrant/XiaoLGrant/blob/main/github-profile/images/banner.png" alt="XiaoGrant">
+<img src="https://github.com/XiaoLGrant/XiaoLGrant/blob/main/images/banner.png"  alt="XiaoGrant">
 
 <p align="center">
   <a href="https://xiaolgrant.netlify.app" target="_blank">
