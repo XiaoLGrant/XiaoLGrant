@@ -21,10 +21,10 @@ Hi 👋, I'm a full stack web developer with a background in biology and legal s
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Federal Way Astronomy Club: Picture of the Day</h3>
+      <h3 align="center">Federal Way Astronomy Club</h3>
         <br />
         <a target="_blank" href="https://federal-way-astronomy-club.netlify.app/">
-            <img src="a" width="100%" alt="Federal Way Astronomy Club: Picture of the Day"/>
+            <img src="https://github.com/XiaoLGrant/XiaoLGrant/blob/main/images/fwAPOD.gif" width="100%" alt="Federal Way Astronomy Club: Picture of the Day"/>
         </a>
         <br />
         <p align="center">
@@ -42,7 +42,7 @@ Hi 👋, I'm a full stack web developer with a background in biology and legal s
       <h3 align="center">Ethical Eats</h3>
         <br />
       <a target="_blank" href="https://ethicaleats.netlify.app">
-            <img src="." width="100%"  alt="Ethical Eats"/>
+            <img src="https://github.com/XiaoLGrant/XiaoLGrant/blob/main/images/homeScreenshotCrop.webp" width="100%"  alt="Ethical Eats"/>
         </a>
         <br />
         <p align="center">
@@ -63,7 +63,7 @@ Hi 👋, I'm a full stack web developer with a background in biology and legal s
       <h3 align="center">Hylebos Pet Grooming & Spa</h3>
       <br />
         <a target="_blank" href="https://hylebosgrooming.netlify.app/">
-          <img src="a" width="100%" alt="Hylebos Pet Grooming and Pet Spa"/>
+          <img src="https://github.com/XiaoLGrant/XiaoLGrant/blob/main/images/homeScreensho.webp" width="100%" alt="Hylebos Pet Grooming and Pet Spa"/>
         </a>
       <br />
         <p align="center">
@@ -80,7 +80,7 @@ Hi 👋, I'm a full stack web developer with a background in biology and legal s
       <h3 align="center">Dumas Bay Nursery</h3>
         <br />
         <a target="_blank" href="https://dumasbaynursery.netlify.app">
-          <img src="a" width="100%" alt="Dumas Bay Nursery"/>
+          <img src="https://github.com/XiaoLGrant/XiaoLGrant/blob/main/images/homeScreenshot.webp" width="100%" alt="Dumas Bay Nursery"/>
         </a>
         <br />
         <p align="center"> 
