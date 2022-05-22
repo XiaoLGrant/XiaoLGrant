@@ -15,7 +15,7 @@
   </a>
 </p>
 
-Hi 👋, I'm a software engineer with a background in biology and legal support. I'm motivated by the positive impacts technology can have on people's lives.
+Hi 👋, I'm a full stack web developer with a background in biology and legal support. I'm motivated by the positive impacts technology can have on people's lives.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
