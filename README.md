@@ -21,7 +21,7 @@ Hi 👋, I'm a full stack web developer with a background in biology and legal s
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Federal Way Astronomy Club</h3>
+      <h3 align="center">Oakland Hills Astronomy Club</h3>
         <br />
         <a target="_blank" href="https://federal-way-astronomy-club.netlify.app/">
             <img src="https://github.com/XiaoLGrant/XiaoLGrant/blob/main/images/fwAPOD.gif" width="100%" alt="Federal Way Astronomy Club: Picture of the Day"/>
