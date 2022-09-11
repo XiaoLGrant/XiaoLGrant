@@ -23,8 +23,8 @@ Hi 👋, I'm a full stack web developer with a background in biology and legal s
     <td width="50%" valign="top">
       <h3 align="center">Oakland Hills Astronomy Club</h3>
         <br />
-        <a target="_blank" href="https://federal-way-astronomy-club.netlify.app/">
-            <img src="https://github.com/XiaoLGrant/XiaoLGrant/blob/main/images/fwAPOD.gif" width="100%" alt="Federal Way Astronomy Club: Picture of the Day"/>
+        <a target="_blank" href="https://oakland-hills-astronomy-club.netlify.app">
+            <img src="https://github.com/XiaoLGrant/XiaoLGrant/blob/main/images/fwAPOD.gif" width="100%" alt="Oakland Hills Astronomy Club: Picture of the Day"/>
         </a>
         <br />
         <p align="center">
@@ -36,7 +36,7 @@ Hi 👋, I'm a full stack web developer with a background in biology and legal s
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=536B78&style=for-the-badge&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML, CSS</strong> - Picture of the day feature for the Federal Way Astronomy Club's website built with NASA API integration.</p>
+        <p><strong>HTML, CSS, & Javascript</strong> - Picture of the day feature for the Oakland Hills Astronomy Club's website built with NASA API integration.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Ethical Eats</h3>
@@ -54,7 +54,7 @@ Hi 👋, I'm a full stack web developer with a background in biology and legal s
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=536B78&style=for-the-badge&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML, CSS</strong> - Search a food product's barcode to determine how healthy it is, what packaging it comes in, and if it's vegan.</p>
+        <p><strong>HTML, CSS, & Javascript</strong> - Search a food product's barcode to determine how healthy it is, what packaging it comes in, and if it's vegan.</p>
     </td>
   </tr>
   
@@ -74,7 +74,7 @@ Hi 👋, I'm a full stack web developer with a background in biology and legal s
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=536B78&style=for-the-badge&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - A website built for a local pet grooming business.</p>
+        <p><strong>HTML, CSS, & Javascript</strong> - A website built for a local pet grooming business.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Dumas Bay Nursery</h3>
@@ -92,7 +92,7 @@ Hi 👋, I'm a full stack web developer with a background in biology and legal s
   </a>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - A website for a small local plant nursery.</p>
+        <p><strong>HTML, CSS, & Javascript</strong> - A website for a small local plant nursery.</p>
     </td>
   </tr>
 </table>
