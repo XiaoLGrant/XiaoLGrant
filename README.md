@@ -20,6 +20,26 @@ Hi 👋, I'm a full stack web developer with a background in biology and legal s
 <h3 align="center">Projects</h3>
 <table bordercolor="#66b2b2">
   <tr>
+      <td valign="top">
+      <h3 align="center">pdfAssist</h3>
+        <br />
+        <a target="_blank" href="https://github.com/XiaoLGrant/pdfAssist">
+            <img src="https://github.com/XiaoLGrant/XiaoLGrant/blob/main/images/fwAPOD.gif" width="100%" alt="pdfAssist landing page"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/XiaoLGrant/pdfAssist" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=213a59&style=for-the-badge&logo=github&logo-color=white"/>
+  </a>
+  <!-- <a href="https://github.com/XiaoLGrant/pdfAssist" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=536B78&style=for-the-badge&logo=wordpress&logo-color=white"/>
+  </a> -->
+      </p>
+        <p><strong>EJS, Bootstrap, CSS, Node, & MongoDB</strong> - Full stack web application that allows users to create documents ready for filing in FL and TX courts by simply filing out a form. Users can create accounts, manage their own customer lists and templates, and generate FL summonses or TX citation requests.</p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Oakland Hills Astronomy Club</h3>
         <br />
