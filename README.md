@@ -42,7 +42,7 @@ Hi 👋, I'm a full stack web developer with a background in biology and legal s
       <h3 align="center">Travelr</h3>
         <br />
         <a target="_blank" href="https://github.com/XiaoLGrant/travel-planner-614">
-            <img src="https://github.com/XiaoLGrant/XiaoLGrant/blob/main/images/travelr.png" width="100%" alt="Travelr destinations page"/>
+            <img src="https://github.com/XiaoLGrant/XiaoLGrant/blob/main/images/travelrCrop.png" width="100%" alt="Travelr destinations page"/>
         </a>
         <br />
         <p align="center">
