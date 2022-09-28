@@ -24,7 +24,7 @@ Hi 👋, I'm a full stack web developer with a background in biology and legal s
       <h3 align="center">pdfAssist</h3>
         <br />
         <a target="_blank" href="https://github.com/XiaoLGrant/pdfAssist">
-            <img src="https://github.com/XiaoLGrant/XiaoLGrant/blob/main/images/landingCrop.png" width="100%" alt="pdfAssist landing page"/>
+            <img src="https://github.com/XiaoLGrant/XiaoLGrant/blob/main/images/pdfAssist.png" width="100%" alt="pdfAssist landing page"/>
         </a>
         <br />
         <p align="center">
