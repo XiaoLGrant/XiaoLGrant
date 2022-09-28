@@ -20,11 +20,11 @@ Hi 👋, I'm a full stack web developer with a background in biology and legal s
 <h3 align="center">Projects</h3>
 <table bordercolor="#66b2b2">
   <tr>
-      <td valign="top">
+      <td width="100%" valign="top">
       <h3 align="center">pdfAssist</h3>
         <br />
         <a target="_blank" href="https://github.com/XiaoLGrant/pdfAssist">
-            <img src="https://github.com/XiaoLGrant/XiaoLGrant/blob/main/images/fwAPOD.gif" width="100%" alt="pdfAssist landing page"/>
+            <img src="https://github.com/XiaoLGrant/XiaoLGrant/blob/main/images/landingCrop.png" width="100%" alt="pdfAssist landing page"/>
         </a>
         <br />
         <p align="center">
