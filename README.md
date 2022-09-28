@@ -20,7 +20,7 @@ Hi 👋, I'm a full stack web developer with a background in biology and legal s
 <h3 align="center">Projects</h3>
 <table bordercolor="#66b2b2">
   <tr>
-      <td width="100%" valign="top">
+      <td valign="top">
       <h3 align="center">pdfAssist</h3>
         <br />
         <a target="_blank" href="https://github.com/XiaoLGrant/pdfAssist">
@@ -36,7 +36,25 @@ Hi 👋, I'm a full stack web developer with a background in biology and legal s
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=536B78&style=for-the-badge&logo=wordpress&logo-color=white"/>
   </a> -->
       </p>
-        <p><strong>EJS, Bootstrap, CSS, Node, & MongoDB</strong> - Full stack web application that allows users to create documents ready for filing in FL and TX courts by simply filing out a form. Users can create accounts, manage their own customer lists and templates, and generate FL summonses or TX citation requests.</p>
+      <p><strong>EJS, Bootstrap, CSS, Node, & MongoDB</strong> - Full stack web application that allows users to create documents ready for filing in FL and TX courts by simply filing out a form. Users can create accounts, manage their own customer lists and templates, and generate FL summonses or TX citation requests.</p>
+    </td>
+          <td valign="top">
+      <h3 align="center">Travelr</h3>
+        <br />
+        <a target="_blank" href="https://github.com/XiaoLGrant/travel-planner-614">
+            <img src="https://github.com/XiaoLGrant/XiaoLGrant/blob/main/images/travelr.png" width="100%" alt="Travelr destinations page"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/XiaoLGrant/travel-planner-614" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=213a59&style=for-the-badge&logo=github&logo-color=white"/>
+  </a>
+  <!-- <a href="https://github.com/XiaoLGrant/pdfAssist" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=536B78&style=for-the-badge&logo=wordpress&logo-color=white"/>
+  </a> -->
+      </p>
+      <p><strong>EJS, CSS, Node, & MongoDB</strong> - Full stack web application that allows users to create a list of places they would like to visit. Users can edit, delete, and add notes to each destination as well as mark off places they've visited. Built using SCRUM and Agile methodologies with a team.</p>
     </td>
   </tr>
   <tr>
